@@ -1,0 +1,12 @@
+C:\Users\deadh\source\repos\pls_BD\bin\Debug\pls_BD.exe.config
+C:\Users\deadh\source\repos\pls_BD\bin\Debug\pls_BD.exe
+C:\Users\deadh\source\repos\pls_BD\bin\Debug\pls_BD.pdb
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.csproj.AssemblyReference.cache
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.Form1.resources
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.Properties.Resources.resources
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.csproj.GenerateResource.cache
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.csproj.CoreCompileInputs.cache
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.exe
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.pdb
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.Form2.resources
+C:\Users\deadh\source\repos\pls_BD\obj\Debug\pls_BD.Form3.resources
